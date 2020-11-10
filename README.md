@@ -1,6 +1,6 @@
 # linux_cache_clear
 just run to remove unwanted cache memory swap memory to speed up your ram 
-## usege
+## useage
 ```
 git clone https://github.com/tamilanmkv/linux_cache_clear.git
 cd linux_cache_clear
